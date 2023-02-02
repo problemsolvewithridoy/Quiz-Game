@@ -3,6 +3,7 @@
 
 In this project, you can play Quiz Game in 5 subjects also you can see the result of the quiz game. In this project have a log file, you can see the user information any time. 
 To make this project you need to follow this step:-
+# Please don't follow this step because Currently i am working on it  
 
 
 
